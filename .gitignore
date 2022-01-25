@@ -1,1 +1,7 @@
-AI-IN-MEDICAL-MATERIALS/
+AI-IN-MEDICAL-MATERIALS/Images
+**/weights
+*/weights/
+**/*.ckpt
+**/imagesTr
+**/labelsTr
+**/SE000001
