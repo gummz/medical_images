@@ -1,10 +1,10 @@
-Images
-**/weights
-*/weights/
-**/*.ckpt
-**/imagesTr
-**/labelsTr
-**/SE000001
+#Images
+#**/weights
+#*/weights/
+#**/*.ckpt
+#**/imagesTr
+#**/labelsTr
+#**/SE000001
 AI-IN-MEDICAL-MATERIALS/pytorch_course_env.yml
 .gitignore
 AI-IN-MEDICAL-MATERIALS/Pierian_Data_Logo.png
