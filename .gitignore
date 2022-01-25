@@ -1,7 +1,12 @@
-AI-IN-MEDICAL-MATERIALS/Images
+Images
 **/weights
 */weights/
 **/*.ckpt
 **/imagesTr
 **/labelsTr
 **/SE000001
+AI-IN-MEDICAL-MATERIALS/pytorch_course_env.yml
+.gitignore
+AI-IN-MEDICAL-MATERIALS/Pierian_Data_Logo.png
+AI-IN-MEDICAL-MATERIALS/pytorch_course_env_windows.yml
+AI-IN-MEDICAL-MATERIALS/Pierian-Data-Logo.PNG
